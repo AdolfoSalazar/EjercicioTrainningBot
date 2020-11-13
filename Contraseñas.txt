@@ -1,6 +1,0 @@
-ftps://waws-prod-dm1-133.ftp.azurewebsites.windows.net/site/wwwroot
-
-$ejerciciotrainningbot
-kew0LdkovCggoP97vd9Z7o7PqwWBhYdLDAFouieGGrt1XuyPdSDQP5Lckorp
-
-https://null@ejerciciotrainningbot.scm.azurewebsites.net/ejerciciotrainningbot.git
